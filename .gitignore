@@ -22,3 +22,6 @@ VectorDB/
 
 # VS Code
 .vscode/
+
+#Dataset
+Data/
