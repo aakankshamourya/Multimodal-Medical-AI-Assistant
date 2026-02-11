@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+AI/
+venv/
+.env/
+
+# HuggingFace cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large models / vector db
+*.bin
+*.safetensors
+VectorDB/
+
+# VS Code
+.vscode/
