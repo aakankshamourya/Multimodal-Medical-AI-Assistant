@@ -1,0 +1,16 @@
+requests
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+flask
+peft
+trl
+datasets
+pillow
+torch
+PIL
+pypdf
+sentence-transformers
+langchain
