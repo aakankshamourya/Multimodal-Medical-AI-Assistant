@@ -7,6 +7,7 @@ __pycache__/
 AI/
 venv/
 .env/
+.env
 
 # HuggingFace cache
 .cache/
